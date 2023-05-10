@@ -1,4 +1,4 @@
 # portifolio
-Desafio proposto em aula <br>
-Caso queria ver como está ficando, pode acessar pelo link abaixo:
-Vercel - https://portifolio-gold-kappa.vercel.app
+<h1> Desafio proposto em aula </h1> <br>
+Caso queria ver como está ficando, pode acessar pelo link abaixo: <br>
+![image](https://github.com/thiagohsferreir/portifolio/assets/111469955/8d8b5625-8f9e-4c1c-a5bc-16d51ff437b3) - https://portifolio-gold-kappa.vercel.app
